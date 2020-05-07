@@ -1,0 +1,22 @@
+{
+  "name": "lab-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyobtamir-401n16/lab-16.git"
+  },
+  "author": "Eyob Tamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyobtamir-401n16/lab-16/issues"
+  },
+  "homepage": "https://github.com/eyobtamir-401n16/lab-16#readme"
+}
